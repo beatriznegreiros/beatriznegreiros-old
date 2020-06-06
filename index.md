@@ -6,8 +6,9 @@ Civil Engineer | Stuttgart, Germany
 
 ## Background
 ```markdown
-Civil Engineer (Universidade Federal do Rio Grande do Norte - Brazil / University of Stuttgart - UK)
-Master student in Water Resources Engineering and Management (Universität Stuttgart - Germany)
+Civil Engineering (Universidade Federal do Rio Grande do Norte - Brazil / University of Stuttgart - UK)
+---------------------------------------------------------------------------------------------------------
+Master's student in Water Resources Engineering and Management (Universität Stuttgart - Germany)
 ```
 
 ## Specialisation fields

@@ -1,9 +1,9 @@
 ## Beatriz Negreiros
 Engineer - Stuttgart, Germany
 
-![Image](DSC_0020.jpg)
+![Image](DSC_0020.jpg | width=100)
 
-- Curriculum in [German](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:ffd8a27e-8046-4f3d-a009-ae43735f632c | width=100)
+- Curriculum in [German](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:ffd8a27e-8046-4f3d-a009-ae43735f632c)
 
 
 

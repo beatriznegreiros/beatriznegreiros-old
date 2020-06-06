@@ -4,13 +4,15 @@ Civil Engineer | Stuttgart, Germany
 ![Image](pic.png)
 
 
-
-
-
+## Background
 ```markdown
-Civil Engineer (Universidade Federal do Rio Grande do Norte - Brazil) and University of Stuttgart - UK
+Civil Engineer (Universidade Federal do Rio Grande do Norte - Brazil / University of Stuttgart - UK)
 Master student in Water Resources Engineering and Management (Universität Stuttgart - Germany)
+```
 
+## Specialisation fields
+```markdown
+Modeling of Hydrosystems |  Drinking Water Supply  |  Integrated River Management  |  Flood Protection
 ```
 
 ### More at:

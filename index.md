@@ -1,6 +1,3 @@
-# Beatriz Negreiros
-Civil Engineer | Stuttgart, Germany
-
 ![Image](pic.png)
 
 

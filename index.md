@@ -1,5 +1,4 @@
 ![Image](pic.png)
-![Image](cv_logo.png)
 
 ## Academic Background
 -----------------------------------------------------------------------------------------------------------
@@ -21,4 +20,6 @@ Modeling of Hydrosystems |  Drinking Water Supply  |  Integrated River Managemen
 - [GitHub](https://github.com/beatriznegreiros)
 - [Instagram](https://www.instagram.com/beatriznegreiros/?hl=pt)
 
+
+[![Image](cv_logo.png =250x)](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:ffd8a27e-8046-4f3d-a009-ae43735f632c)
 

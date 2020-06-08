@@ -21,5 +21,5 @@ Modeling of Hydrosystems |  Drinking Water Supply  |  Integrated River Managemen
 - [Instagram](https://www.instagram.com/beatriznegreiros/?hl=pt)
 
 
-[![Image](cv_logo.png =100x20)](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:ffd8a27e-8046-4f3d-a009-ae43735f632c)
+[![Image](cv_logo.png)](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:ffd8a27e-8046-4f3d-a009-ae43735f632c)
 

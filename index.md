@@ -21,4 +21,4 @@ Modeling of Hydrosystems |  Drinking Water Supply  |  Integrated River Managemen
 - [GitHub](https://github.com/beatriznegreiros)
 - [Instagram](https://www.instagram.com/beatriznegreiros/?hl=pt)
 
-![Alt text](cv_logo.png)]
+![Alt text](cv_logo.png)

@@ -18,7 +18,7 @@ Master's student in Water Resources Engineering and Management (Universität Stu
 Modeling of Hydrosystems |  Drinking Water Supply  |  Integrated River Management  |  Flood Protection
 ```
 
-## EDV
+## Computer Skills
 -----------------------------------------------------------------------------------------------------------
 ```markdown
 SMS (Surface Water Modelling) |  Python  |  MATLAB  |  MODFLOW  |   GIS   |   AutoCAD   | Advanced Excel

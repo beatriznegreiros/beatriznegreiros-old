@@ -24,7 +24,7 @@ Modeling of Hydrosystems |  Drinking Water Supply  |  Integrated River Managemen
 SMS (Surface Water Modelling) |  Python  |  MATLAB  |  MODFLOW  |   GIS   |   AutoCAD   | Advanced Excel
 ```
 
-[![Image](cv_logo_de.png)](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:cd6d1544-2a35-4ca4-92b7-c134ecfe0d55)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](cv_logo_en.png)](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:51ca5598-ab87-4ad3-b726-69bab7fd7cff) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![logo](linkedin_logo.png){width=100px}](https://www.linkedin.com/in/beatriz-negreiros/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![logo](github_logo.png){width=100px}](https://github.com/beatriznegreiros) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![logo](instagram_logo.png){width=100px}](https://www.instagram.com/beatriznegreiros/?hl=pt)
+[![Image](cv_logo_de.png)](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:cd6d1544-2a35-4ca4-92b7-c134ecfe0d55)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](cv_logo_en.png)](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:51ca5598-ab87-4ad3-b726-69bab7fd7cff) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![alt text][linkedin_logo.png]{height=100px width=100px}](https://www.linkedin.com/in/beatriz-negreiros/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![alt text](github_logo.png){width=100px}](https://github.com/beatriznegreiros) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![alt text](instagram_logo.png){width=100px}](https://www.instagram.com/beatriznegreiros/?hl=pt)
 
 
 [logo]: (picurl)

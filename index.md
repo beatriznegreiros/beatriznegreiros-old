@@ -26,11 +26,3 @@ SMS (Surface Water Modelling) |  Python  |  MATLAB  |  MODFLOW  |   GIS   |   Au
 
 [![Image](cv_logo_de.png)](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:cd6d1544-2a35-4ca4-92b7-c134ecfe0d55)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](cv_logo_en.png)](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:51ca5598-ab87-4ad3-b726-69bab7fd7cff) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](linkedin_logo.png)](https://www.linkedin.com/in/beatriz-negreiros/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](github_logo.png)](https://github.com/beatriznegreiros) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](instagram_logo.png)](https://www.instagram.com/beatriznegreiros/?hl=pt)
 
-
-[logo]: (picurl)
-
-<style type="text/css">
-    .classname{
-        width: 100px;
-    }
-</style>

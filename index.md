@@ -15,7 +15,7 @@ Master's student in Water Resources Engineering and Management (Universität Stu
 ## Specialisation fields
 -----------------------------------------------------------------------------------------------------------
 ```markdown
-Modeling of Hydrosystems |  Drinking Water Supply  |  Integrated River Management  |  Flood Protection
+Modeling of Hydrosystems |  Drinking Water Supply  |  Integrated River Management  |  Flood Protection 
 ```
 
 ## Computer Skills
@@ -24,9 +24,9 @@ Modeling of Hydrosystems |  Drinking Water Supply  |  Integrated River Managemen
 SMS (Surface Water Modelling) |  Python  |  MATLAB  |  MODFLOW  |   GIS   |   AutoCAD   | Advanced Excel
 ```
 
-### Module for Hydro-morphodynamic model evaluation (Python)
+### Python projects:
 
-&nbsp; Visit [here](https://beatriznegreiros.github.io/valitools/) 
+&nbsp; Visit [valitools](https://beatriznegreiros.github.io/valitools/) &nbsp; | &nbsp; [progenerator](https://github.com/beatriznegreiros/progenerator) &nbsp; |  &nbsp; [routines_hydro](https://github.com/beatriznegreiros/routines_hydro)
 
 ### Find more:
 

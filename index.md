@@ -26,7 +26,7 @@ SMS (Surface Water Modelling) |  Python  |  MATLAB  |  MODFLOW  |   GIS   |   Au
 
 ### Python projects:
 
-&nbsp; Visit [valitools](https://beatriznegreiros.github.io/valitools/) &nbsp; | &nbsp; [progenerator](https://github.com/beatriznegreiros/progenerator) &nbsp; |  &nbsp; [routines_hydro](https://github.com/beatriznegreiros/routines_hydro)
+&nbsp; Visit [fuzzycorr](https://beatriznegreiros.github.io/fuzzycorr/) &nbsp; | &nbsp; [progenerator](https://github.com/beatriznegreiros/progenerator) &nbsp; |  &nbsp; [routines_hydro](https://github.com/beatriznegreiros/routines_hydro)
 
 ### Find more:
 

@@ -31,11 +31,11 @@ SMS (Surface Water Modelling) |  Python  |  MATLAB  |  MODFLOW  |   GIS   |   Au
 Portuguese (Native) |  English (C1)  |  German (C1)  |  Spanish (Basic Knowledge)
 ```
 
-### Python codes
+## Python codes
 -----------------------------------------------------------------------------------------------------------
 &nbsp; Visit [fuzzycorr](https://beatriznegreiros.github.io/fuzzycorr/) &nbsp; | &nbsp; [progenerator](https://github.com/beatriznegreiros/progenerator) &nbsp; |  &nbsp; [routines_hydro](https://github.com/beatriznegreiros/routines_hydro)
 
-### Projects
+## Projects
 -----------------------------------------------------------------------------------------------------------
 - [Aplicacao do Modelo Hidrólogico MGB-IPH na Bacia Hidrográfica do Rio Seridó](https://s3-sa-east-1.amazonaws.com/abrh/Eventos/Trabalhos/60/PAP022622.pdf) (*Application of the Hydrological Model MGB-IPH at the Seridó River Basin*).
 - [Entwicklung eines holistischen und nachhaltigen Sedimentmanagementkonzepts](https://www.iws.uni-stuttgart.de/institut/forschung/projekte/lww/va/20190701_Jettenbach_Sedimentmanagementkonzepts/) (*Development of a holistic and sustainable sediment management concept to improve the hydromorphological situation of the residual water stretch Jettenbach – Töging at the River Inn*).

@@ -32,15 +32,15 @@ Portuguese (Native) |  English (C1)  |  German (C1)  |  Spanish (Basic Knowledge
 ```
 
 ### Python codes
-
+-----------------------------------------------------------------------------------------------------------
 &nbsp; Visit [fuzzycorr](https://beatriznegreiros.github.io/fuzzycorr/) &nbsp; | &nbsp; [progenerator](https://github.com/beatriznegreiros/progenerator) &nbsp; |  &nbsp; [routines_hydro](https://github.com/beatriznegreiros/routines_hydro)
 
-### Projects:
-
+### Projects
+-----------------------------------------------------------------------------------------------------------
 - [Aplicacao do Modelo Hidrólogico MGB-IPH na Bacia Hidrográfica do Rio Seridó](https://s3-sa-east-1.amazonaws.com/abrh/Eventos/Trabalhos/60/PAP022622.pdf) (*Application of the Hydrological Model MGB-IPH at the Seridó River Basin*).
 - [Entwicklung eines holistischen und nachhaltigen Sedimentmanagementkonzepts](https://www.iws.uni-stuttgart.de/institut/forschung/projekte/lww/va/20190701_Jettenbach_Sedimentmanagementkonzepts/) (*Development of a holistic and sustainable sediment management concept to improve the hydromorphological situation of the residual water stretch Jettenbach – Töging at the River Inn*).
 
-### Find more:
 
-[![Image](cv_logo_de.png)](https://www.keepandshare.com/doc13/25237/negreiros-lebenslauf-14-11-2020-pdf-132k)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](cv_logo_en.png)](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:51ca5598-ab87-4ad3-b726-69bab7fd7cff) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](linkedin_logo.png)](https://www.linkedin.com/in/beatriz-negreiros/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](github_logo.png)](https://github.com/beatriznegreiros) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](instagram_logo.png)](https://www.instagram.com/beatriznegreiros/?hl=pt)
+### Find more:
+[![Image](cv_logo_de.png)](https://www.keepandshare.com/doc13/25237/negreiros-lebenslauf-14-11-2020-pdf-132k?da=y)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](cv_logo_en.png)](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:51ca5598-ab87-4ad3-b726-69bab7fd7cff) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](linkedin_logo.png)](https://www.linkedin.com/in/beatriz-negreiros/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](github_logo.png)](https://github.com/beatriznegreiros) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](instagram_logo.png)](https://www.instagram.com/beatriznegreiros/?hl=pt)
 

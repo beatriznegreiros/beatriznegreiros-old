@@ -8,7 +8,7 @@ Mrs. Negreiros is a civil engineer graduated by the Federal University of Rio Gr
 ## Academic Background
 -----------------------------------------------------------------------------------------------------------
 ```markdown
-Civil Engineering (Universidade Federal do Rio Grande do Norte - Brazil / University of Stuttgart - UK)
+BEng. Civil Engineering (Universidade Federal do Rio Grande do Norte - Brazil / University of Stuttgart - UK)
 
 MSc. Water Resources Engineering and Management (Universität Stuttgart - Germany)
 ```

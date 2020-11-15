@@ -42,5 +42,5 @@ Portuguese (Native) |  English (C1)  |  German (C1)  |  Spanish (Basic Knowledge
 
 
 ### Find more:
-[![Image](cv_logo_de.png)](https://www.keepandshare.com/doc13/25237/negreiros-lebenslauf-14-11-2020-pdf-132k?da=y) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](orcid_logo.png)](https://orcid.org/0000-0001-7427-8871) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](linkedin_logo.png)](https://www.linkedin.com/in/beatriz-negreiros/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](github_logo.png)](https://github.com/beatriznegreiros) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](instagram_logo.png)](https://www.instagram.com/beatriznegreiros/?hl=pt)
+[![Image](cv_logo_de.png)](https://www.keepandshare.com/doc13/25237/negreiros-lebenslauf-14-11-2020-pdf-132k?da=y) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](linkedin_logo.png)](https://www.linkedin.com/in/beatriz-negreiros/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](github_logo.png)](https://github.com/beatriznegreiros) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](orcid_logo.png)](https://orcid.org/0000-0001-7427-8871) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](instagram_logo.png)](https://www.instagram.com/beatriznegreiros/?hl=pt)
 

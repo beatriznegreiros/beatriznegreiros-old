@@ -40,6 +40,10 @@ Portuguese (Native) |  English (C1)  |  German (C1)  |  Spanish (Basic Knowledge
 - [Aplicacao do Modelo Hidrólogico MGB-IPH na Bacia Hidrográfica do Rio Seridó](https://s3-sa-east-1.amazonaws.com/abrh/Eventos/Trabalhos/60/PAP022622.pdf) (*Application of the Hydrological Model MGB-IPH at the Seridó River Basin*).
 - [Entwicklung eines holistischen und nachhaltigen Sedimentmanagementkonzepts](https://www.iws.uni-stuttgart.de/institut/forschung/projekte/lww/va/20190701_Jettenbach_Sedimentmanagementkonzepts/) (*Development of a holistic and sustainable sediment management concept to improve the hydromorphological situation of the residual water stretch Jettenbach – Töging at the River Inn*).
 
+## Current Master/Bachelor Theses
+
+- Open: [Psychologie der Präzision: Subjektive Korrelation morphodynamischen Wandels](https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/BA_was_ist_was_map_comparison_20200703_fin.pdf) (*Cognitive precision: Subjective correlation of morphodynamic change*).
+- Ongoing: [Smart analysis of fluvial ecosystems with airborne lidar data and machine learning](https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/MA_lidar_analysis_20201019_fin.pdf).
 
 ### Find more:
 [![Image](cv_logo_de.png)](https://www.keepandshare.com/doc13/25237/negreiros-lebenslauf-14-11-2020-pdf-132k?da=y) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](linkedin_logo.png)](https://www.linkedin.com/in/beatriz-negreiros/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](github_logo.png)](https://github.com/beatriznegreiros) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](orcid_logo.png)](https://orcid.org/0000-0001-7427-8871) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](instagram_logo.png)](https://www.instagram.com/beatriznegreiros/?hl=pt)

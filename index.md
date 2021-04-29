@@ -44,6 +44,7 @@ Portuguese (Native) |  English (C1)  |  German (C1)  |  Spanish (Basic Knowledge
 
 - Open: [Psychologie der Präzision: Subjektive Korrelation morphodynamischen Wandels](https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/BA_was_ist_was_map_comparison_20200703_fin.pdf) (*Cognitive precision: Subjective correlation of morphodynamic change*).
 - [Smart analysis of fluvial ecosystems with airborne lidar data and machine learning](https://www.iws.uni-stuttgart.de/lww/lehre-und-weiterbildung/download/MA_lidar_analysis_20201019_fin.pdf).
+- [Colmation analysis across scales] https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiaq6yw3aPwAhVo_7sIHXiKADcQFjABegQIBhAD&url=https%3A%2F%2Fwww.iws.uni-stuttgart.de%2Flww%2Flehre-und-weiterbildung%2Fdownload%2F2020_BA_MA_Colmation.pdf&usg=AOvVaw0iyKxKVWZ_uaH32wPV857U
 
 ### Find more:
 [![Image](cv_logo_de.png)](https://www.linkedin.com/in/beatriz-negreiros/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABzUVlwB3EOfVkrSSEiuOiD_eFz8qLE68c4,1611692853827)/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](linkedin_logo.png)](https://www.linkedin.com/in/beatriz-negreiros/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](github_logo.png)](https://github.com/beatriznegreiros) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](orcid_logo.png)](https://orcid.org/0000-0001-7427-8871) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](instagram_logo.png)](https://www.instagram.com/beatriznegreiros/?hl=pt)

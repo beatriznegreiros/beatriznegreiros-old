@@ -54,5 +54,5 @@ Portuguese (Native) |  English (C1)  |  German (C1)  |  Spanish (Basic Knowledge
 [![Image](cv_logo_de.png)](https://www.linkedin.com/in/beatriz-negreiros/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABzUVlwB3EOfVkrSSEiuOiD_eFz8qLE68c4,1611692853827)/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](linkedin_logo.png)](https://www.linkedin.com/in/beatriz-negreiros/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](github_logo.png)](https://github.com/beatriznegreiros) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](orcid_logo.png)](https://orcid.org/0000-0001-7427-8871) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Image](instagram_logo.png)](https://www.instagram.com/beatriznegreiros/?hl=pt)
 
 
-<iframe width="420" height="315" src="https://www.iws.uni-stuttgart.de/en/institute/videos/Portrait-of-the-Month---Beatriz-Negreiros-00001/" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=70wzyP3tzOA&list=PLSlAoS8gdfvpjZtiOQhpb2Oyd_GTvGx9x&index=2" frameborder="0" allowfullscreen></iframe>
 

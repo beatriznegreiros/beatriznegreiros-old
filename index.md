@@ -1,5 +1,5 @@
 ---
-youtubeId: 70wzyP3tzOA&list=PLSlAoS8gdfvpjZtiOQhpb2Oyd_GTvGx9x&index=2
+youtubeId: 70wzyP3tzOA
 ---
 
 
